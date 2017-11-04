@@ -1,0 +1,5 @@
+[Markdown]
+bears = InvalidLinkBear, SpaceConsistencyBear
+files = **.md
+ignore = node_modules/**
+use_spaces = True

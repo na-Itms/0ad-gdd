@@ -1,0 +1,9 @@
+{
+  "root": "book/",
+  "title": "0 A.D. Design Document",
+  "author": "Wildfire Games",
+  "plugins": [
+    "-sharing",
+    "alerts",
+    "creativecommons"]
+}

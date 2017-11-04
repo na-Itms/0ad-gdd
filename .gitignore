@@ -1,1 +1,6 @@
+trac
 output
+_book
+node_modules
+
+*.orig
