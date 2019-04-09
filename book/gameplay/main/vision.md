@@ -14,7 +14,7 @@ enjoyable). I believe we say it best with the 0 A.D. creed:
 and the dawn of history.* *It is a glimpse into an era when the empires
 of the world are at their zenith.* *It is but a breath of an age when
 mighty rulers wield rods of iron and brazen swords;* *to demonstrate
-that they are indeed the greatest ancient civilisation!*
+that they are indeed the greatest ancient civilization!*
 
 Let's break this creed down piece by piece.
 
@@ -44,8 +44,8 @@ way.
 zenith.**
 
 0 A.D. is a slice in time. Imagine if all the ancient worlds (at the
-peak of their civilisations) were pitted one against another. We are
-plucking major civilisations out of their linear timeframe and placing
+peak of their civilizations) were pitted one against another. We are
+plucking major civilizations out of their linear timeframe and placing
 them in the slice of time, which is 0 A.D.
 
 **It is but a breath of an age when mighty rulers wield rods of iron and
@@ -56,9 +56,9 @@ take a back seat to strategic warfare. Are we glorifying war for
 entertainment purposes? Uh… Yep.
 
 **to demonstrate that they are indeed the greatest ancient
-civilisation!**
+civilization!**
 
-Out of the 12 civilisations, which is the best? Well, we don't know!
+Out of the 12 civilizations, which is the best? Well, we don't know!
 That decision is put in the hands of the player. It is up to them to
 either recreate or rewrite history.
 
@@ -72,7 +72,7 @@ are taking a great effort to avoid stereotypical imagery and notions, in
 an effort to give our players a realistic world.
 
 As far as the look goes, our world will be a heightened representation
-of reality. Colours will be a bit more saturated, vegetation will be
+of reality. Colors will be a bit more saturated, vegetation will be
 slightly edenic, structures will appear in a liveable state, units will
 be battle-torn, and the resources will be bountiful. We will try to make
 it as pleasing to the eye as possible.
@@ -83,7 +83,7 @@ will hearken back to an ancient time, sound effects will bring the
 action to your home.
 
 This game will make you (as a player) feel like you are in command of a
-civilisation. You make the decisions that will lead to their ultimate
+civilization. You make the decisions that will lead to their ultimate
 rise or demise.
 
 ### Heart and Soul of 0 A.D.
@@ -96,7 +96,7 @@ the challenges set before them.
 
 Competition can occur on two basic levels: Player vs. Player and Player
 vs. Computer. The Player vs. Player aspect will make it very important
-for the game to have a set of identities (civilisations) that are both
+for the game to have a set of identities (civilizations) that are both
 balanced and unique. This will provide a multiplayer experience. Player
 vs. Computer will require us to have a deep and strategic understanding
 of our own game in order to provide a sufficient level of difficulty for
@@ -109,7 +109,7 @@ strategy we can offer. It is important that the variety of choices is
 vast enough to allow the player to choose from an array of actions -
 each having a unique set of repercussions. The rules of the game will
 also have a historical basis that will establish it as the historical
-RTS that it is.
+Real Time Strategy (RTS) game that it is.
 
 Combat will be the focus of the competition. Economic and diplomatic
 actions will be used to forward militaristic actions. Every entity in
@@ -127,7 +127,7 @@ actions as fun:
 -   Creation of your base
 -   Setting up your economy
 -   Outwitting an opponent by using the correct tool for the job
--   Advancing your civilisation
+-   Advancing your civilization
 -   A come-from-behind victory
 -   Proper use of formation in a battle
 -   Effective raiding
@@ -171,14 +171,14 @@ guard up and avoid these pitfalls:
     out the fastest. People that practice a general procedure that is
     usually rewarding and know keyboard shortcuts should be slightly
     advantaged, and they will still be required; but, the if the
-    opponent recognises their 'cookie cutter' gameplay, they should
+    opponent recognizes their 'cookie cutter' gameplay, they should
     easily be able to outwit them by identifying and countering the
     unoriginal/over-used tactics with an effective counteractive
     strategy.
 -   **Single path to victory** - It seems to be a trend that games cater
     to a specific strategy that is frequently used to attain a victory.
     That could be rushing, turtling, booming, etc. We recognise these
-    are valid ways to win a game, but we will attempt to not favour one
+    are valid ways to win a game, but we will attempt to not favor one
     over another. Players should be able to successfully use (and
     adapt/change) any strategy to achieve a victory.
 -   **Sneaky Tricks** - Many games overlook some aspects of gameplay
@@ -186,14 +186,14 @@ guard up and avoid these pitfalls:
     advantage. Through many hours of gameplay testing, we need to
     identify and eliminate these tricks.
 -   **Frustration of Artificial Intelligence** - It is important to
-    minimise frustration when playing the game. I have lost count of the
+    minimize frustration when playing the game. I have lost count of the
     times I've screamed at the computer, “WHY DID \_\_\_\_ DO \_\_\_\_!”
     Whether its AI pathfinding or suicidal units, we need to minimise
     player frustration by rigorous AI testing.
 -   **Confusing UI** - It is very important to avoid handicapping
     gameplay by making the user interface so complicated that people are
     not capable of doing what they want to do, and stop playing the game
-    because they can't figure out how to control it. We to need promote
+    because they can't figure out how to control it. We need to promote
     an interface that can be easily picked up by our target audience. It
     is critical to pay special attention to other games in our genre
     from which we will be drawing players.
@@ -205,7 +205,7 @@ guard up and avoid these pitfalls:
     remember that this is the first project we have ever done. Much of
     the knowledge we have gained is based on trial and error. We will
     probably continue to forge forward in this fashion. We need to
-    understand our limits and avoid getting fixed on them. We should aim
+    understand our limits and avoid getting fixated on them. We should aim
     high, but not so high that our goals are unattainable.
 
 ### Why?
@@ -257,7 +257,7 @@ apart from the crowd and make 0 A.D. unique:
     player's starting Territory can also be surrounded by attrition
     borders to reduce early rushes.
 -   **Real World Map Realism** - Random Maps based upon geographical
-    regions where the civilisations of the ancient world lived and
+    regions where the civilizations of the ancient world lived and
     'died'. These will be generated with biome specific-to-location
     features that replicate (as best we have researched) the look and
     feel of the world as it existed 2,000 years ago. This provides for
@@ -283,7 +283,7 @@ others towards RTT (Real time tactical).
 Developers do not seem to be content to further the traditional RTS in
 the same vein as Age of Empires, Command and Conquer, Red Alert, and
 Warcraft II. Though some are fleeing, we are going to stake a claim in
-the RTS genre. There is still much innovation to be made. This for us
+the RTS genre. There is still so much innovation to be made. This for us
 means:
 
 1.  Less tedious/mindless micro-management
@@ -324,7 +324,7 @@ games.
 The players we are targeting will likely have one of the following
 traits:
 
--   An interest in our time period and/or civilisations
+-   An interest in our time period and/or civilizations
 -   Ancient warfare
 -   “Age of” gamers
 -   RTS buffs
@@ -346,7 +346,7 @@ completed:
 
 -   **Virtual** - We are a virtual team with no central office. All our
     communication is done via the internet.
--   **Hobbyist** - None of us are doing this as a fully time job. We are
+-   **Hobbyist** - None of us are doing this as a full time job. We are
     not paid. This project comes secondary to work, school, and family.
 -   **Inexperience** - Very few of us have done this for a living. There
     are so many things we have to learn by trial and error.
@@ -360,5 +360,5 @@ completed:
 For our team, it will be an uphill battle. Though it will be difficult I
 am sure our team can rise to the challenge. Talent attracts talent, and
 we certainly have a lot of it. If we continue to surround ourselves with
-the best and the brightest we will surely maintain our potential for
+the best and the brightest, we will surely maintain our potential for
 quality and excellence.
