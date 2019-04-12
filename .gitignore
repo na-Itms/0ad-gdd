@@ -1,6 +1,4 @@
-trac
-output
-_book
-node_modules
+venv
+site
 
 *.orig

@@ -1,10 +1,10 @@
 TERRITORIES
 ===========
 
-> **[warning] Implementation status**
->
-> This page describes a feature that is implemented, but the implementation
-> significantly differs from the text here. The text is to be updated.
+!!! warning
+
+    This page describes a feature that is implemented, but the implementation
+    significantly differs from the text here. The text is to be updated.
 
 
 ![Territories3.jpg](territories/Territories3.jpg)

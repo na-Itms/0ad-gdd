@@ -1,10 +1,10 @@
 Formations
 ==========
 
-> **[danger] Implementation status**
->
-> This page is a work in progress. Assume that nothing described here is
-> finalised yet and everything could work completely different in the end.
+!!! warning
+
+    This page is a work in progress. Assume that nothing described here is
+    finalised yet and everything could work completely different in the end.
 
 # Current state and Goal
 

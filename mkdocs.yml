@@ -1,0 +1,37 @@
+site_name: 0 A.D. Design Document
+site_author: Wildfire Games
+repo_url: https://code.wildfiregames.com/source/design/
+repo_name: Contributing
+use_directory_urls: false
+
+docs_dir: book
+markdown_extensions:
+- admonition
+
+nav:
+- Gameplay - Main concepts:
+    - '0 A.D. The Vision': gameplay/main/vision.md
+    - 'War Story': gameplay/main/war-story.md
+    - 'Territories': gameplay/main/territories.md
+    - 'Capturing': gameplay/main/capturing.md
+    - 'Formations': gameplay/main/formations.md
+- Gameplay Elements:
+    - 'Maps': gameplay/elements/maps.md
+    - 'Structures': gameplay/elements/structures.md
+    - 'Entities': gameplay/elements/entities.md
+- Civilizations:
+    - 'Athenians': gameplay/civs/athenians.md
+    - 'Britons': gameplay/civs/britons.md
+    - 'Carthaginians': gameplay/civs/carthaginians.md
+    - 'Gauls': gameplay/civs/gauls.md
+    - 'Iberians': gameplay/civs/iberians.md
+    - 'Macedonians': gameplay/civs/macedonians.md
+    - 'Mauryans': gameplay/civs/mauryans.md
+    - 'Persians': gameplay/civs/persians.md
+    - 'Ptolemies': gameplay/civs/ptolemies.md
+    - 'Romans': gameplay/civs/romans.md
+    - 'Seleucids': gameplay/civs/seleucids.md
+    - 'Spartans': gameplay/civs/spartans.md
+- Technical Design:
+    - 'General settings': technical/settings.md
+    - 'Game settings and setup': technical/gamesetup.md
