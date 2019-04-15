@@ -272,7 +272,7 @@ Trained from the Military Colony only.
     * **Shield:** No shields for any of the riders/mahout. Tower has Seleucid-emblazoned shields on the sides.
     * **Mount:** Large Indian Elephant with small wooden tower on its back. It has bronze segmented armour all over its body (see image below).
     * **Figure(s):** [http://www.wildfiregames.com/~art/history/hellenes/images/18_1w.jpg](http://www.wildfiregames.com/~art/history/hellenes/images/18_1w.jpg)
-  * **History:** The Seleucids, having access to the East, specifically India after the war with the Mauryans, imported gigantic war elephants to augment their phalanxes. The beasts were armoured and were used as giant battering rams to smash enemy infantry formations.
+  * **History:** The Seleucids, having access to the East, specifically India after the war with the Mauryas, imported gigantic war elephants to augment their phalanxes. The beasts were armoured and were used as giant battering rams to smash enemy infantry formations.
   * **Garrison:** 3.
   * **Function:** The Armored War Elephant will smash buildings with its crush attack. It also has a passive ranged attack from its riders throwing javelins. Last but not least, this unit also has a very high trample aura which kills nearby enemy infantry and cavalry alike.
   * **Special:**

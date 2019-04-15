@@ -1,4 +1,4 @@
-MAURYANS (INDIANS) CIVILISATION PROFILE
+MAURYAS (INDIANS) CIVILISATION PROFILE
 =======================================
 
 
@@ -463,13 +463,13 @@ CIV BONUSES
   * **Generic Name: Emperor of Emperors**
   * **Specific Name: Chakravarti Samrāt.**
   * **History:** The Mauryan Empire encompassed dozens of formerly independent kingdoms over an area of 5 million square kilometers, with a population of close to 60 million people. The Mauryan regents held the title "Emperor of Emperors" and commanded a standing army of 600,000 infantry, 9000 elephants, 8000 chariots, and 30,000 cavalry, making it arguably the largest army of its time.
-  * **Effect:** Mauryans have a +10% population cap bonus (e.g., 330 pop cap instead of the usual 300).
+  * **Effect:** Mauryas have a +10% population cap bonus (e.g., 330 pop cap instead of the usual 300).
 
 * **CB2**
   * **Generic Name: Warrior Caste.**
   * **Specific Name: Kṣhatriya.**
   * **History:** Kshatriya or Kashtriya, meaning warrior, is one of the four varnas (social orders) in Hinduism. Traditionally Kshatriya constitute the military and ruling elite of the Vedic-Hindu social system outlined by the Vedas and the Laws of Manu. The earliest Vedic literature listed by organisation of function, not of caste, the Kshatriya (holders of kṣatra, or authority) as first in rank, and the Brahmins second (priests and teachers of law), before the Vaisya (Cattle-herders, merchant-traders, farmers and some artisan castes), and the Sudra (labourers, some farming castes and other artisan castes).
-  * **Effect:** Mauryans gain access to 4 champion units, instead of the standard 2.
+  * **Effect:** Mauryas gain access to 4 champion units, instead of the standard 2.
 
 TEAM BONUS
 ----------
