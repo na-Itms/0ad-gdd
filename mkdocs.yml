@@ -7,6 +7,7 @@ use_directory_urls: false
 docs_dir: book
 markdown_extensions:
 - admonition
+- attr_list
 
 nav:
 - Gameplay - Main concepts:
@@ -25,6 +26,7 @@ nav:
     - 'Carthaginians': gameplay/civs/carthaginians.md
     - 'Gauls': gameplay/civs/gauls.md
     - 'Iberians': gameplay/civs/iberians.md
+    - 'Kushites': gameplay/civs/kushites.md
     - 'Macedonians': gameplay/civs/macedonians.md
     - 'Mauryas': gameplay/civs/mauryas.md
     - 'Persians': gameplay/civs/persians.md
