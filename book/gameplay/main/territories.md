@@ -60,14 +60,14 @@ the Province).
 BENEFITS OF CONTROLLING A PROVINCE
 ----------------------------------
 
-* The player sees no Shroud of Darkness in his own Provinces.
-* Expanding his Territory allows the player to control more of the game map.
- * He cannot easily build structures on terrain unless he controls its Province.
- * He cannot gather from resource objects unless he controls their Province.
-* Until the 'rush timer' has ticked down to zero, units will rapidly lose hitpoints whenever they are in an enemy's Province. (The starting time of the timer is specified at session creation.)
-* Faster construction time: In situations where the player can build around existing buildings in a Province he doesn't own (see the next section), he cannot build as quickly in the other player's Province as he could in his own.
-* Civic Centres increase population limit, so more units can be trained.
-* All of the player's entities gain a bonus to their armour value as long as they are in one of his Provinces.
+* The player sees no Shroud of Darkness in his own Provinces.
+* Expanding his Territory allows the player to control more of the game map.
+ * He cannot easily build structures on terrain unless he controls its Province.
+ * He cannot gather from resource objects unless he controls their Province.
+* Until the 'rush timer' has ticked down to zero, units will rapidly lose hitpoints whenever they are in an enemy's Province. (The starting time of the timer is specified at session creation.)
+* Faster construction time: In situations where the player can build around existing buildings in a Province he doesn't own (see the next section), he cannot build as quickly in the other player's Province as he could in his own.
+* Civic Centres increase population limit, so more units can be trained.
+* All of the player's entities gain a bonus to their armour value as long as they are in one of his Provinces.
 
 STRUCTURES IN PROVINCES
 -----------------------
@@ -78,12 +78,12 @@ the only way.
 
 Requirements to build:
 
-* Build a Civic Centre on the Settlement
-  This is your first initial step to construction of any structure in any Province.
-* Capture a structure from the enemy
-  If you cannot construct a structure and you really want to build a structure in that Province, another option is to weaken the enemy's structure to the point of capturablity. After it is captured you are capable of building structures in its proximity.
-* Have a structure already built in the Province
-  This is an issue when an enemy comes into your Province and destroys your Civic Centre. You are still able to build in this Province within the proximity of your existing structures.
+* Build a Civic Centre on the Settlement
+  This is your first initial step to construction of any structure in any Province.
+* Capture a structure from the enemy
+  If you cannot construct a structure and you really want to build a structure in that Province, another option is to weaken the enemy's structure to the point of capturablity. After it is captured you are capable of building structures in its proximity.
+* Have a structure already built in the Province
+  This is an issue when an enemy comes into your Province and destroys your Civic Centre. You are still able to build in this Province within the proximity of your existing structures.
 
 ALLIED PROVINCES
 ----------------

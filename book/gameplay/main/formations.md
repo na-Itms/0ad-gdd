@@ -40,17 +40,17 @@ advantages compared to battalions:
     occur here because it was designed that way from the beginning. A
     few examples:
 
-* How would it work with female citizens in a battalion-only system? Are they also built in batches and how many units would be in such a batch?
-* How do you show which units are part of the same battalion? While collecting resources, the individual units could get separated a lot. 
-* When defining the size of a battalion, do we really want to depend on the economic factors too in addition to the military ones? For example, we would like a large battalion to make the formations work, be we want a small one for economic reasons. 
-* How much space for units is there around the different resource types (mines, forests, hunting, berries, fields etc.)?
-* We could still support mixing of different unit types in a formation if we want that.
+* How would it work with female citizens in a battalion-only system? Are they also built in batches and how many units would be in such a batch?
+* How do you show which units are part of the same battalion? While collecting resources, the individual units could get separated a lot. 
+* When defining the size of a battalion, do we really want to depend on the economic factors too in addition to the military ones? For example, we would like a large battalion to make the formations work, be we want a small one for economic reasons. 
+* How much space for units is there around the different resource types (mines, forests, hunting, berries, fields etc.)?
+* We could still support mixing of different unit types in a formation if we want that.
 
 On top of that, most of the disadvantages can be mitigated:
 
-* The town bell takes away micro-management for garrisoning units and sending them back to work.
-* There could be a shortcut and/or a button to select only wounded units
-* Fighting happens in formations mostly, so the problem is solved on that part
+* The town bell takes away micro-management for garrisoning units and sending them back to work.
+* There could be a shortcut and/or a button to select only wounded units
+* Fighting happens in formations mostly, so the problem is solved on that part
 
 ### Approach B: Battalions only
 
@@ -82,24 +82,24 @@ circumstances.
 
 ### Fighting as individual units
 
-* Garrisoning
-* Raiding. A single formation is not mobile enough to run after individual units.
-* Battles with few units. If all units are grouped into one or two battalions, it's hard for them to attack a scattered group of your units. If you have ranged units, you can keep attacking them while they try to catch all units one by one, wasting a lot of time. This tactic doesn't work well if the enemy has ranged units too. However, having just two battalions with one ranged and one melee, it's very hard to protect the ranged units. They can only be protected from one side at any given time. This is another case where you get an advantage by disbanding the battalion.
+* Garrisoning
+* Raiding. A single formation is not mobile enough to run after individual units.
+* Battles with few units. If all units are grouped into one or two battalions, it's hard for them to attack a scattered group of your units. If you have ranged units, you can keep attacking them while they try to catch all units one by one, wasting a lot of time. This tactic doesn't work well if the enemy has ranged units too. However, having just two battalions with one ranged and one melee, it's very hard to protect the ranged units. They can only be protected from one side at any given time. This is another case where you get an advantage by disbanding the battalion.
 
 ### Fighting with formations
 
-* Basically all battles between larger armies.
+* Basically all battles between larger armies.
 
 
 # Number of units in formations
 
-* There is a minimum number of 6 units for a battalion.
-* There is a minimum number of units depending on the formation type. This is usually higher than the minimum battalion size.
-* There is a maximum number of units for each formation.
-* You get the same formation bonus irrespective of the formation size.
-* Morale: The panic-effect on other battalions is smaller for smaller battalions
-* Morale: You need to kill the same percentage of units in the same amount of time for all sizes of formations to cause panic-mode (assuming no other effects on morale).
-* Morale: Smaller battalions panic more easily because fewer units need to be killed and they are also more vulnerable to other negative effects on morale because their total morale is lower.
+* There is a minimum number of 6 units for a battalion.
+* There is a minimum number of units depending on the formation type. This is usually higher than the minimum battalion size.
+* There is a maximum number of units for each formation.
+* You get the same formation bonus irrespective of the formation size.
+* Morale: The panic-effect on other battalions is smaller for smaller battalions
+* Morale: You need to kill the same percentage of units in the same amount of time for all sizes of formations to cause panic-mode (assuming no other effects on morale).
+* Morale: Smaller battalions panic more easily because fewer units need to be killed and they are also more vulnerable to other negative effects on morale because their total morale is lower.
 
 
 # Unit types and formations
@@ -325,37 +325,37 @@ be directional (see directionality) or general.
 
 # Morale
 
-* The morale value for a battalion is the sum of the morale values of all its units.
-* Winning without killing all enemies (adding more depth to a battle by offering another way to victory)
-* Good for auras (heroes to boost morale, some units that scare the enemy and reduce their morale)
-* Interesting for technology choices: boost attack and defense or morale?
-* Morale is calculated per battalion
-* When a formation is disbanded, all units take over the morale value of the formation (the percentage). This prevents that players quickly disband and then form a battalion again to refresh the morale. It's still possible to mix units with low and high morale to get a battalion with a morale value somewhere in the middle, but that's probably fine.
+* The morale value for a battalion is the sum of the morale values of all its units.
+* Winning without killing all enemies (adding more depth to a battle by offering another way to victory)
+* Good for auras (heroes to boost morale, some units that scare the enemy and reduce their morale)
+* Interesting for technology choices: boost attack and defense or morale?
+* Morale is calculated per battalion
+* When a formation is disbanded, all units take over the morale value of the formation (the percentage). This prevents that players quickly disband and then form a battalion again to refresh the morale. It's still possible to mix units with low and high morale to get a battalion with a morale value somewhere in the middle, but that's probably fine.
 
 ## What influences morale?
 
-* Positive auras. Example: Hero close
-* Negative auras. Example: Enemy elephant attacking reduces morale regeneration rate
-* Experienced troops have increased morale
-* Heavily armoured champion units have more morale. TODO: More armour effectively means more morale already because units die slower. Do they really need more total morale in addition? Maybe yes, because that makes them more resistant to the other effects on morale.
-* Loss of units: The key here is that a dying unit reduces the morale points by more than the total number of points divided by the number of units. This means that a short and strong attack has a large impact on morale but a relatively low impact on the number of units in the battalion. 
-* Morale automatically regenerates slowly. Regeneration is faster when the battalion is not in battle (Not in battle meaning something like: "not attacked since x seconds" or "total attack in the last 10 seconds smaller than X points")
-* The battalion has a range. If another allied battalion within that range changes to panic mode, this also reduces the morale of the current battalion. This can cause a cascade effect which make the tactic of winning a battle by destroying the enemy morale stronger (this can be balanced by increasing or reducing the effect).
+* Positive auras. Example: Hero close
+* Negative auras. Example: Enemy elephant attacking reduces morale regeneration rate
+* Experienced troops have increased morale
+* Heavily armoured champion units have more morale. TODO: More armour effectively means more morale already because units die slower. Do they really need more total morale in addition? Maybe yes, because that makes them more resistant to the other effects on morale.
+* Loss of units: The key here is that a dying unit reduces the morale points by more than the total number of points divided by the number of units. This means that a short and strong attack has a large impact on morale but a relatively low impact on the number of units in the battalion. 
+* Morale automatically regenerates slowly. Regeneration is faster when the battalion is not in battle (Not in battle meaning something like: "not attacked since x seconds" or "total attack in the last 10 seconds smaller than X points")
+* The battalion has a range. If another allied battalion within that range changes to panic mode, this also reduces the morale of the current battalion. This can cause a cascade effect which make the tactic of winning a battle by destroying the enemy morale stronger (this can be balanced by increasing or reducing the effect).
 
 ## What happens if morale reaches 0?
 
-* The formation changes to panic mode
-* This is indicated in some way (changed battalion banner, panic-animations playing for units from time to time, sound effects etc.)
-* Units in panic mode have reduced attack and armour values and they loose all bonuses they had from the formation they were in previously. They play the panic-animation from time to time and don't fight while doing that.
-* A formation in panic mode is so weak that it has to be pulled back from battle
-* Units are still grouped
-* Units keep their current positions, but they change to a panic mode formation (basically random grouping of units) which takes effect when the units are moved.
-* Battalions in panic mode can't be disbanded
-* Units recover from panic mode when their morale raises above 50% again (value to be adjusted during playtesting and balancing)
+* The formation changes to panic mode
+* This is indicated in some way (changed battalion banner, panic-animations playing for units from time to time, sound effects etc.)
+* Units in panic mode have reduced attack and armour values and they loose all bonuses they had from the formation they were in previously. They play the panic-animation from time to time and don't fight while doing that.
+* A formation in panic mode is so weak that it has to be pulled back from battle
+* Units are still grouped
+* Units keep their current positions, but they change to a panic mode formation (basically random grouping of units) which takes effect when the units are moved.
+* Battalions in panic mode can't be disbanded
+* Units recover from panic mode when their morale raises above 50% again (value to be adjusted during playtesting and balancing)
 
 ## Tactical considerations
 
-* If a formation presents a larger front to the enemy, it inflicts more damage but is also more vulnerable to loosing morale. You might want to use a different formation layout depending on how strong the morale of your units is and how easily you can retreat them. For example, if you are fighting a battle in front of your own gates, you might want to quickly deal a lot of damage to the enemy troops and then retreat your panicing troops behind the walls.
+* If a formation presents a larger front to the enemy, it inflicts more damage but is also more vulnerable to loosing morale. You might want to use a different formation layout depending on how strong the morale of your units is and how easily you can retreat them. For example, if you are fighting a battle in front of your own gates, you might want to quickly deal a lot of damage to the enemy troops and then retreat your panicing troops behind the walls.
 
 # Stamina
 
@@ -364,9 +364,9 @@ morale because they are similar.
 
 Brainstorming...
 
-* Differentiate between light units that can move faster and further with their stamina and heavy units that can fight longer (different stamina use for movement and fighting)
-* Practically increase the distance between settlements without requiring larger maps (movement takes stamina)
-* Adding another aspect to battle. If you had a long march and then immediately start fighting, you have a disadvantage because of stamina
+* Differentiate between light units that can move faster and further with their stamina and heavy units that can fight longer (different stamina use for movement and fighting)
+* Practically increase the distance between settlements without requiring larger maps (movement takes stamina)
+* Adding another aspect to battle. If you had a long march and then immediately start fighting, you have a disadvantage because of stamina
 
 # Charging
 
@@ -378,9 +378,9 @@ TODO
     formations is very tricky. Especially the transition between the two
     is quite hard to get right design-wise.
 
-* Not enforcing minimum size requirements for formations and battalions could lead to "single-unit formations" or very small formations just to get the bonuses
-* If forced disbanding happens too early, the main part of the battle will be fought in single unit combat again. This is not what we want.
-* If formation bonuses are still applied for very small formations, that could be abused and could also lead to something similar as single unit combat. 
+* Not enforcing minimum size requirements for formations and battalions could lead to "single-unit formations" or very small formations just to get the bonuses
+* If forced disbanding happens too early, the main part of the battle will be fought in single unit combat again. This is not what we want.
+* If formation bonuses are still applied for very small formations, that could be abused and could also lead to something similar as single unit combat. 
 
 -   Confusion between forced fallback to default-formation and panic
     mode could occur.
@@ -413,9 +413,9 @@ want to start implementing it this way and see how it works.
 
 **Goals:**
 
-1. The formation picks the direct path
-1. No units must turn around and walk backwards
-1. The formation movement looks natural
+1. The formation picks the direct path
+1. No units must turn around and walk backwards
+1. The formation movement looks natural
 
 **Decisions:** Nothing to decide, the expected behaviour is quite
 obvious.
@@ -426,12 +426,12 @@ obvious.
 
 **Goals:**
 
-1. Same goals a s with A
-1. The formation moves around the small obstacle (fence) in the middle. Roughly half of the formation should move around the left and half around the right of the fence (when it's in the middle).
+1. Same goals a s with A
+1. The formation moves around the small obstacle (fence) in the middle. Roughly half of the formation should move around the left and half around the right of the fence (when it's in the middle).
 
 **Decisions:**
 
-1. Formations are allowed to split up in order to path around small obstacles. They don't require a path for the full formation obstruction.
+1. Formations are allowed to split up in order to path around small obstacles. They don't require a path for the full formation obstruction.
 
 # C1: Too narrow target location (no alternative)
 
@@ -439,14 +439,14 @@ obvious.
 
 **Goals:**
 
-1. The formation is allowed to move to the flag, even though there's too little room for the whole formation obstruction.
-1. The formation ends up with more ranks but less wide to fit into the narrow spot
+1. The formation is allowed to move to the flag, even though there's too little room for the whole formation obstruction.
+1. The formation ends up with more ranks but less wide to fit into the narrow spot
 
 **Decisions:**
 
-1. It's allowed to move formations to a target when there's not enough space for the whole formation at the target location.
- * Different behaviour would be a problem, especially with large formations and unrevealed territory
- * It doesn't seem too difficult to achieve a reasonable behaviour in the vast majority of cases
+1. It's allowed to move formations to a target when there's not enough space for the whole formation at the target location.
+ * Different behaviour would be a problem, especially with large formations and unrevealed territory
+ * It doesn't seem too difficult to achieve a reasonable behaviour in the vast majority of cases
 
 # C2: Too narrow target location (alternative path)
 
@@ -455,9 +455,9 @@ obvious.
 TODO: This is where it gets difficult. Maybe this needs another testcase
 that elaborates on the behaviour.
 
-1. Does the formation use the same behaviour as in C1 or does it try to position units outside of the wooden walls too, trying to keep the formation shape?
- * Different behaviour might be wanted depending on how much distance (real walk distance, not linear distance) units have to cover to reach that spot.
- * The player might not want units to walk through the narrow gap and take the way on the front if enemy units are there.
+1. Does the formation use the same behaviour as in C1 or does it try to position units outside of the wooden walls too, trying to keep the formation shape?
+ * Different behaviour might be wanted depending on how much distance (real walk distance, not linear distance) units have to cover to reach that spot.
+ * The player might not want units to walk through the narrow gap and take the way on the front if enemy units are there.
 
 # D: Partially obstructed paths with alternative
 
@@ -465,13 +465,13 @@ that elaborates on the behaviour.
 
 **Goals:**
 
-1. The formation picks the direct path (where the trees are).
-1. Movement looks natural (no units going back and forth for example). 
+1. The formation picks the direct path (where the trees are).
+1. Movement looks natural (no units going back and forth for example). 
 
 **Decisions:**
 
-1. Formations always pick the shortest path, even if it's partially obstructed (all individual units in the formation can pass, but not the formation as a whole) and even if a free (but longer) path is available.
- * Different behaviour would not be predictable for the player and it would be very hard to implement a reasonable fuzzy logic that covers all the cases well.
+1. Formations always pick the shortest path, even if it's partially obstructed (all individual units in the formation can pass, but not the formation as a whole) and even if a free (but longer) path is available.
+ * Different behaviour would not be predictable for the player and it would be very hard to implement a reasonable fuzzy logic that covers all the cases well.
 
 # E: Dense forests
 
@@ -479,11 +479,11 @@ that elaborates on the behaviour.
 
 **Goals:**
 
-1. The formation picks the direct path.
-1. Units pick reasonable paths to get through the forest and keep close together as good as possible. They try to keep the formation shape if possible, otherwise they just try to keep as close together as possible.
-1. Formation movement looks natural.
+1. The formation picks the direct path.
+1. Units pick reasonable paths to get through the forest and keep close together as good as possible. They try to keep the formation shape if possible, otherwise they just try to keep as close together as possible.
+1. Formation movement looks natural.
 
 **TODOs:**
 
-1. If formations move through dense forests or similar obstacles and units separate too much, this should have an impact on formation bonuses. Is it enough to use a rule like "if less than x% of the units are in their designated location according to the formation shape, bonuses do not apply"?
+1. If formations move through dense forests or similar obstacles and units separate too much, this should have an impact on formation bonuses. Is it enough to use a rule like "if less than x% of the units are in their designated location according to the formation shape, bonuses do not apply"?
 
